@@ -1,0 +1,18 @@
+.A{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+q{
+  text-decoration: underline;
+  -webkit-text-decoration-color: steelblue; /* Safari */  
+  text-decoration-color:steelblue;
+}
+table{
+     
+    border-collapse: collapse;
+}
+div{
+    background-color: lightgrey;
+    margin-left: 20%;
+    margin-right: 20%;
+}
